@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b971d91881.bdhjob.cn/sitemap.xml

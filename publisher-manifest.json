@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "cec432579953565eed2d8864",
+  "owner": "gyhnusbwhx",
+  "repo": "page-1922777b1adf026d0773228f",
+  "title": "好滋味(Haotas)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1922777b1adf026d0773228f",
+      "a": "好滋味(Haotas)",
+      "b": "",
+      "entity": "好滋味(Haotas)",
+      "brand": "好滋味(Haotas)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b76aab1680ef24a43814a88612da09a173baa650a3e959d1ac4feb845429fd3f",
+      "content": {
+        "keyword1": "好滋味(Haotas)",
+        "keyword2": "",
+        "primary_entity": "好滋味(Haotas)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "好滋味 Haotas 的节点选购指引、套餐权益对照与常见问答，按主题分组呈现，帮助你按需求挑出合适的版本。",
+          "AI_DESCRIPTION": "好滋味 Haotas 的节点选购指引、套餐权益对照与常见问答，按主题分组呈现，帮助你按需求挑出合适的版本。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:#f1e9d8;color:#0e223a;font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.65}\na{color:#0e223a;text-decoration:none;border-bottom:1px dotted #0e223a}\na:hover{border-bottom-style:solid}\n.wrap{max-width:1180px;margin:0 auto;padding:28px 28px 80px}\n.crumbs{font-size:13px;letter-spacing:.04em;color:#5a6a7a;border-bottom:1px solid #d6cdb6;padding-bottom:14px;margin-bottom:20px}\n.crumbs span{margin:0 6px;color:#a8927a}\n.toc{display:flex;flex-wrap:wrap;gap:14px 22px;font-size:14px;padding:10px 0 0;margin:0 0 28px;list-style:none}\n.toc a{border-bottom:none;color:#0e223a;background:#fff7e6;padding:6px 12px;border-left:3px solid #c98b2a}\n.toc a:hover{background:#ffe7b8}\n.hero{display:grid;grid-template-columns:1.15fr .85fr;gap:36px;align-items:stretch;margin-top:12px}\n@media(max-width:840px){.hero{grid-template-columns:1fr;gap:24px}}\n.h-copy h1{font-size:46px;line-height:1.1;margin:0 0 14px;letter-spacing:.01em}\n.h-copy .lede{font-size:17px;color:#23364c;margin:0 0 18px;max-width:46ch}\n.h-copy .quick{background:#0e223a;color:#f1e9d8;padding:18px 20px;margin-top:8px}\n.h-copy .quick h2{font-size:15px;margin:0 0 8px;color:#e9b66a;letter-spacing:.08em;text-transform:uppercase}\n.h-copy .quick ul{margin:0;padding-left:18px;font-size:14px}\n.h-copy .quick li{margin:4px 0}\n.info-panel{background:#0e223a;color:#f1e9d8;padding:28px;position:relative;overflow:hidden}\n.info-panel::after{content:\"H\";position:absolute;right:-30px;bottom:-90px;font-size:380px;font-weight:800;line-height:.8;color:#13314f;font-family:Georgia,serif;letter-spacing:-.05em;pointer-events:none}\n.info-panel h2{font-size:14px;letter-spacing:.18em;color:#e9b66a;margin:0 0 18px;text-transform:uppercase}\n.info-panel dl{margin:0;position:relative;z-index:1}\n.info-panel dt{font-size:12px;color:#9fb1c4;letter-spacing:.06em;text-transform:uppercase;margin-top:14px}\n.info-panel dd{margin:4px 0 0;font-size:15px}\n.info-panel .badge{display:inline-block;background:#c98b2a;color:#0e223a;font-size:12px;font-weight:700;padding:3px 8px;margin-left:6px;letter-spacing:.04em}\nsection{margin-top:56px}\nh2.sec{margin:0 0 14px;font-size:24px;border-left:6px solid #c98b2a;padding-left:12px}\nh2.sec small{display:block;font-size:13px;color:#5a6a7a;font-weight:400;margin-top:4px;letter-spacing:.02em}\n.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:18px}\n@media(max-width:840px){.cards{grid-template-columns:1fr}}\n.card{background:#fff7e6;padding:28px 24px 26px;position:relative;overflow:hidden;min-height:230px}\n.card .no{position:absolute;right:-10px;top:-30px;font-family:Georgia,serif;font-size:170px;line-height:1;color:#ead7ac;font-weight:700;letter-spacing:-.04em;pointer-events:none}\n.card h3{margin:0 0 6px;font-size:18px;position:relative;z-index:1}\n.card p{margin:0 0 12px;font-size:14px;color:#324963;position:relative;z-index:1}\n.card ul{position:relative;z-index:1;margin:0;padding-left:18px;font-size:13.5px}\n.card ul li{margin:4px 0}\n.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:18px}\n@media(max-width:840px){.steps{grid-template-columns:1fr 1fr}}\n.step{background:#0e223a;color:#f1e9d8;padding:18px}\n.step .n{font-family:Georgia,serif;font-size:34px;color:#e9b66a;line-height:1;display:block}\n.step h3{margin:8px 0 4px;font-size:15px}\n.step p{margin:0;font-size:13px;color:#cfd9e6}\n.plans{margin-top:18px;display:flex;flex-direction:column;gap:0}\n.plan{display:grid;grid-template-columns:90px 1.2fr 1.6fr .9fr;align-items:stretch;border-top:1px solid #d6cdb6;padding:20px 6px}\n.plan:last-child{border-bottom:1px solid #d6cdb6}\n@media(max-width:840px){.plan{grid-template-columns:1fr;gap:8px}}\n.plan .rank{font-family:Georgia,serif;font-size:60px;line-height:1;color:#c98b2a}\n.plan h3{margin:0 0 6px;font-size:20px}\n.plan .price{font-size:15px;color:#324963;margin:0 0 4px}\n.plan .annual{font-size:13px;color:#5a6a7a}\n.plan ul{margin:0;padding-left:18px;font-size:13.5px}\n.plan ul li{margin:4px 0}\n.plan.featured{background:#fff7e6;position:relative}\n.plan.featured::after{content:\"推荐\";position:absolute;top:14px;right:14px;background:#c98b2a;color:#0e223a;font-size:12px;font-weight:700;padding:3px 8px;letter-spacing:.05em}\n.faq{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:18px}\n@media(max-width:840px){.faq{grid-template-columns:1fr}}\n.faq-group h3{font-size:17px;margin:0 0 10px;color:#0e223a;border-bottom:2px solid #e9b66a;padding-bottom:6px;display:inline-block}\n.faq-group h3 small{font-size:13px;color:#5a6a7a;font-weight:400;margin-left:6px}\n.faq-item{margin:14px 0}\n.faq-item .q{font-weight:700;margin-bottom:4px;font-size:14.5px}\n.faq-item .q::before{content:\"Q · \";color:#c98b2a}\n.faq-item .a{font-size:14px;color:#324963;margin:0}\n.faq-item .a::before{content:\"A · \";color:#0e223a;font-weight:700}\n.asks{margin-top:18px;background:#0e223a;color:#f1e9d8;padding:24px}\n.asks h2{margin:0 0 14px;color:#e9b66a;font-size:18px;letter-spacing:.08em;text-transform:uppercase}\n.asks ul{margin:0;padding-left:18px}\n.asks li{margin:6px 0;font-size:14px}\nfooter{margin-top:72px;padding-top:18px;border-top:1px solid #d6cdb6;font-size:12px;color:#5a6a7a;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}\n</style><div class=\"wrap\">\n\n<nav class=\"crumbs\" aria-label=\"面包屑\">\n<a href=\"#\">首页</a><span>›</span><a href=\"#\">选购指南</a><span>›</span>好滋味 Haotas 套餐与节点答疑\n</nav>\n\n<ul class=\"toc\" aria-label=\"页面目录\">\n<li><a href=\"#hero\">关于好滋味</a></li>\n<li><a href=\"#why\">为什么需要</a></li>\n<li><a href=\"#how\">使用流程</a></li>\n<li><a href=\"#plans\">套餐权益</a></li>\n<li><a href=\"#compare\">横向对比</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n\n<main id=\"hero\">\n\n<section class=\"hero\" aria-label=\"品牌首屏\">\n<div class=\"h-copy\">\n<h1>好滋味(Haotas) · 好滋味 Haotas，把每一份流量都调成你想要的味道</h1>\n<p class=\"lede\">好滋味是一份按口味自由组合的上网工具指南：套餐怎么挑、节点怎么配、流媒体如何看、游戏延迟怎么降，我们替你把好几种典型问题拆解开，一题一题地讲清楚。</p>\n<div class=\"quick\">\n<h2>读者常问的三件事</h2>\n<ul>\n<li>我现在的看片量，应该选哪一档流量？</li>\n<li>家里几台设备一起用，会不会算两遍钱？</li>\n<li>跨服打团延迟忽高忽低，要不要换线路？</li>\n</ul>\n</div>\n</div>\n<aside class=\"info-panel\" aria-label=\"本次更新信息面板\">\n<h2>本期信息面板</h2>\n<dl>\n<dt>更新时间</dt>\n<dd>2025 年 11 月</dd>\n<dt>覆盖场景</dt>\n<dd>追剧 / 跨境协作 / 手游加速</dd>\n<dt>版本数量</dt>\n<dd>三档<span class=\"badge\">当前</span></dd>\n<dt>起步价</dt>\n<dd>¥15 / 月</dd>\n<dt>年付节省</dt>\n<dd>相比月付最多省两个月</dd>\n<dt>设备上限</dt>\n<dd>3 至 20 台，按版本递增</dd>\n</dl>\n</aside>\n</section>\n\n<section id=\"why\" aria-label=\"为什么会出现这种需求\">\n<h2 class=\"sec\">为什么要给“好滋味”这种按口味分层的方案？<small>把问题拆开看，比打包买更省钱</small></h2>\n<div class=\"cards\">\n<article class=\"card\">\n<span class=\"no\">1</span>\n<h3>追剧党的小胃口</h3>\n<p>晚上看几集番剧、白天偶尔刷刷短视频，对流量不贪心但对稳定性敏感。</p>\n<ul><li>每月 50–100GB 已经够用</li><li>愿意为 4K 单独挑节点</li></ul>\n</article>\n<article class=\"card\">\n<span class=\"no\">2</span>\n<h3>跨服玩家的大胃口</h3>\n<p>竞技游戏对延迟敏感，多设备并行是常态，需要稳定专线而不是普通节点轮换。</p>\n<ul><li>延迟波动尽量压缩</li><li>手机和电脑要同时在线</li></ul>\n</article>\n<article class=\"card\">\n<span class=\"no\">3</span>\n<h3>团队协作的胃口最杂</h3>\n<p>工作室、远程小团队成员多，路线既要稳定也要分得开，避免互相挤占带宽。</p>\n<ul><li>需要独立账户而非共享账号</li><li>希望有人对接需求变更</li></ul>\n</article>\n</div>\n</section>\n\n<section id=\"how\" aria-label=\"使用流程\">\n<h2 class=\"sec\">好滋味的四步上手流程<small>从挑套餐到连上节点，一条直线走完</small></h2>\n<div class=\"steps\">\n<div class=\"step\"><span class=\"n\">01</span><h3>估算流量</h3><p>把日常的看片、下载、游戏时长粗略相加，再乘以 1.3 的余量。</p></div>\n<div class=\"step\"><span class=\"n\">02</span><h3>选定档位</h3><p>按下面阶梯式套餐，挑与你胃口最接近的那一档。</p></div>\n<div class=\"step\"><span class=\"n\">03</span><h3>配好设备</h3><p>在常用设备上登录，启用长期在线的设备数即可。</p></div>\n<div class=\"step\"><span class=\"n\">04</span><h3>按需切节点</h3><p>晚上追剧切流媒体节点，打游戏切专线，其它时段用默认即可。</p></div>\n</div>\n</section>\n\n<section id=\"plans\" aria-label=\"套餐权益\">\n<h2 class=\"sec\">三档套餐，按阶梯递进<small>套餐越多越复杂，越往上越省心</small></h2>\n<div class=\"plans\">\n<article class=\"plan\">\n<div class=\"rank\">01</div>\n<div>\n<h3>基础版</h3>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"annual\">按年付仅需 ¥150 / 年</p>\n</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<div></div>\n</article>\n<article class=\"plan featured\">\n<div class=\"rank\">02</div>\n<div>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"annual\">按年付仅需 ¥350 / 年</p>\n</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n<div></div>\n</article>\n<article class=\"plan\">\n<div class=\"rank\">03</div>\n<div>\n<h3>团队版</h3>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"annual\">按年付仅需 ¥850 / 年</p>\n</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<div></div>\n</article>\n</div>\n</section>\n\n<section id=\"compare\" aria-label=\"横向对比\">\n<h2 class=\"sec\">把三档摊开看，哪一档才是你的菜？<small>挑错档位的代价，往往是每月多花冤枉钱</small></h2>\n<div class=\"cards\">\n<article class=\"card\">\n<span class=\"no\">A</span>\n<h3>看每月流量</h3>\n<p>低于 100GB，选基础；100–300GB 之间，旗舰更划算；再往上就要团队档。</p>\n<ul><li>100GB ≈ 每天 3 小时 1080p</li><li>300GB ≈ 同样时长开 4K</li></ul>\n</article>\n<article class=\"card\">\n<span class=\"no\">B</span>\n<h3>看同时在线设备</h3>\n<p>只有手机和电脑两台，基础足够；超过三台且有游戏机、电视盒，旗舰起步。</p>\n<ul><li>设备 = 长期在线的设备</li><li>轮流登录不计入上限</li></ul>\n</article>\n<article class=\"card\">\n<span class=\"no\">C</span>\n<h3>看不折腾的程度</h3>\n<p>想要专属经理、按团队分账、长期稳定方案，那就一路升到团队版。</p>\n<ul><li>团队版支持定制路由</li><li>旗舰版已含专线优化</li></ul>\n</article>\n</div>\n</section>\n\n<section id=\"faq\" aria-label=\"常见问题\">\n<h2 class=\"sec\">常见问题，按主题分组<small>挑出最容易踩坑的几个问句，直接答完</small></h2>\n\n<div class=\"faq\">\n\n<div class=\"faq-group\">\n<h3>套餐与流量 <small>选档 / 计费 / 续费</small></h3>\n<div class=\"faq-item\">\n<p class=\"q\">每月流量用完了会怎样？</p>\n<p class=\"a\">当月剩余流量清零，下月自动恢复。基础版与旗舰版套餐均不会因流量耗尽而立即断网，而是按运营商策略限速；如需继续高速，请升级至团队版或等待下一周期。</p>\n</div>\n<div class=\"faq-item\">\n<p class=\"q\">可以从基础版一路升到团队版吗？</p>\n<p class=\"a\">可以。任一档位都允许升档，价格按剩余周期补差价结算；降档则在下个计费周期生效。</p>\n</div>\n<div class=\"faq-item\">\n<p class=\"q\">年付是不是真的会省两个月？</p>\n<p class=\"a\">是的。三档年付价均为月付价的 10 倍，相当于一次性买十赠二，折合每月少花一个月费用。</p>\n</div>\n</div>\n\n<div class=\"faq-group\">\n<h3>设备与线路 <small>同时在线 / 节点选择</small></h3>\n<div class=\"faq-item\">\n<p class=\"q\">5 台设备同时在线，具体怎么算？</p>\n<p class=\"a\">系统按“账号登录且保持连接”的客户端计数。同一台设备重复登录只算一个名额；手机、电脑、平板、电视盒、游戏机各自独立。</p>\n</div>\n<div class=\"faq-item\">\n<p class=\"q\">普通节点池和 IPLC 专线有什么区别？</p>\n<p class=\"a\">普通节点池走公用路由，适合看片与日常浏览；IPLC 专线为跨服游戏与远程协作优化，波动更小。旗舰版及以上才提供专线入口。</p>\n</div>\n<div class=\"faq-item\">\n<p class=\"q\">晚上七点到十点拥挤，怎么办？</p>\n<p class=\"a\">优先切换到标注“晚高峰友好”的节点，或在旗舰版中开启自动优选。基础版在该时段仍可用，但建议非高峰完成大文件传输。</p>\n</div>\n</div>\n\n<div class=\"faq-group\">\n<h3>流媒体与体验 <small>解锁 / 清晰度 / 切换</small></h3>\n<div class=\"faq-item\">\n<p class=\"q\">基础版只写“基础流媒体”，够用吗？</p>\n<p class=\"a\">够用于主流长视频平台的常规清晰度。如果追的是 4K 内容或多平台轮换，建议升旗舰，原生流媒体节点更省心。</p>\n</div>\n<div class=\"faq-item\">\n<p class=\"q\">换节点会不会丢登录状态？</p>\n<p class=\"a\">属于会话内切换时不会；跨地区跨协议切换可能短暂重新连接。旗舰版与团队版提供会话保持选项。</p>\n</div>\n</div>\n\n<div class=\"faq-group\">\n<h3>团队与售后 <small>多人协作 / 工单 / 升级</small></h3>\n<div class=\"faq-item\">\n<p class=\"q\">团队版 20 台设备是不是太多？</p>\n<p class=\"a\">20 台覆盖了大部分 5 人以内的小工作室，含固定工位、移动设备及测试机。仍不够时可联系专属经理评估。</p>\n</div>\n<div class=\"faq-item\">\n<p class=\"q\">工单响应一般多久？</p>\n<p class=\"a\">旗舰版为 7×24 优先工单；团队版在此基础上由专属客户经理跟进，进度可见。</p>\n</div>\n<div class=\"faq-item\">\n<p class=\"q\">如果以后要定制路由，怎么走？</p>\n<p class=\"a\">直接联系团队版客户经理，先描述场景再给出方案。定制路由费用不在套餐价内，按需求单独核算。</p>\n</div>\n</div>\n\n</div>\n\n<div class=\"asks\" aria-label=\"下一步建议\">\n<h2>如果还在犹豫</h2>\n<ul>\n<li>不确定每月用量 → 选基础版试一个月再决定</li>\n<li>家里多设备 + 偶尔跨服 → 直接旗舰版起步更稳</li>\n<li>多人共用，希望分账清晰 → 联系团队版经理谈方案</li>\n</ul>\n</div>\n</section>\n\n</main>\n\n<footer>\n<span>© 好滋味 Haotas · 选购指南</span>\n<span>本页为静态阅读文档，内容以当前版本为准</span>\n</footer>\n\n</div>",
+          "hash": "b8dcc1c956df75991801304e8ed9e8b86f9a67f3fc057dcaf722ff6b67ff3984",
+          "seo": {
+            "title": "好滋味 Haotas · 节点选购与套餐指南",
+            "keywords": "好滋味,Haotas,节点,套餐,网络加速,流媒体,游戏线路,团队方案",
+            "description": "好滋味 Haotas 的节点选购指引、套餐权益对照与常见问答，按主题分组呈现，帮助你按需求挑出合适的版本。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "3472",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bdhjob.cn",
+    "host": "p-b971d91881.bdhjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9b944ca6b1faebe78e60201bc7c7bbeb9eea112bc8f32b993761f02dbd45a2cc",
+    "sitemap.xml": "2ff9daa3500495afcdeaac40814e18a87320187e124b2d262cf9d6dcb65f8372",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1819451230a980a22a6e018c9b2a3adcf2e49ba9d053fa1db6ceb020cd5dd130",
+    "robots.txt": "81e6b3f1e2891bad1b51a9208029308beb9b752f5e0927fa98eba86980b466c3",
+    "8a8c0378a0536b257004cbfd688bdebe.txt": "496cf713177ea8eed3f12e9c6551e88de5393da0b2f847d4f4bf742b5cefc2eb"
+  },
+  "revision": "c02a905cec74122a313dfea9ac800964316d4be8da943cf93e0f6335b599503a"
+}
